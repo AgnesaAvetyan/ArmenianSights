@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ArmenianSights",
+    "slug": "ArmenianSights",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ArmenianSights"
+}

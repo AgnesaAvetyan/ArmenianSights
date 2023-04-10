@@ -1,0 +1,10 @@
+2023-04-05 16:23:25.854 xcodebuild[41195:550211] DVTCoreDeviceEnabledState: DVTCoreDeviceEnabledState_Disabled set via user default (DVTEnableCoreDevice=disabled)
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, id:F20D5BD9-1A65-4440-AAA5-EB85A791888B, OS:16.4, name:iPhone SE (3rd generation) }
+{ platform:iOS Simulator, id:F20D5BD9-1A65-4440-AAA5-EB85A791888B, OS:16.4, name:iPhone SE (3rd generation) }
+** BUILD FAILED **
+
+
+The following build commands failed:
+	CompileC /Users/agnesaavetyan/Library/Developer/Xcode/DerivedData/ArmenianSights-bmbtlctsbhhimkavfukifdgisbgg/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/React-Codegen.build/Objects-normal/arm64/FBReactNativeSpec-generated.o /Users/agnesaavetyan/Desktop/ArmenianSights/frontend/ios/build/generated/ios/FBReactNativeSpec/FBReactNativeSpec-generated.mm normal arm64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'React-Codegen' from project 'Pods')
+(1 failure)
